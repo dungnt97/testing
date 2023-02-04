@@ -7,16 +7,16 @@ CLI Using tsup config: /Users/dungngo97/Documents/MyProjects/testing/packages/to
 CLI Target: node14
 ESM Build start
 CJS Build start
-CJS dist/react.js 25.75 KB
-CJS dist/index.js 3.11 KB
-CJS ⚡️ Build success in 37ms
-ESM dist/chunk-YBVZDUCZ.mjs        1.92 KB
-ESM dist/index.mjs                 208.00 B
 ESM dist/react.mjs                 8.17 KB
+ESM dist/index.mjs                 208.00 B
+ESM dist/chunk-YBVZDUCZ.mjs        1.92 KB
 ESM dist/getTokenList-T45DK2AY.mjs 13.04 KB
-ESM ⚡️ Build success in 40ms
+ESM ⚡️ Build success in 34ms
+CJS dist/index.js 3.11 KB
+CJS dist/react.js 25.75 KB
+CJS ⚡️ Build success in 33ms
 DTS Build start
-DTS ⚡️ Build success in 2891ms
+DTS ⚡️ Build success in 2622ms
 DTS dist/index.d.ts          1.53 KB
 DTS dist/react.d.ts          2.50 KB
 DTS dist/types-c285eef5.d.ts 1.02 KB

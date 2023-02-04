@@ -101,6 +101,7 @@
     "zod": "^3.20.2"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.19.1",
     "@next/eslint-plugin-next": "13.1.2",
     "@stylelint/postcss-css-in-js": "^0.37.2",
     "@testing-library/jest-dom": "^5.16.2",
